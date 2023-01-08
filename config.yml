@@ -1,0 +1,11 @@
+name: "Hypixel"
+lang: "pl"
+token: "" # Discord bot token
+interval: 10000 # ms
+server: "hypixel.net"
+
+message:
+  enabled: true
+  channel: "" # Channel id
+status:
+  enabled: true
