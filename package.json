@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.7.1",
+    "js-yaml": "^4.1.0",
+    "minecraft-server-util": "^5.3.1"
+  }
+}
