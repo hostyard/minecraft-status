@@ -1,0 +1,8 @@
+login: "Inicié sesión como {bot}!"
+status: "👀 {online}/{max}"
+online: "Servidor en línea"
+offline: "Servidor apagado"
+players: "😃 Jugadores"
+ping: "🏓 Latencia"
+version: "🧭 Versión"
+update: "Actualizado hace: "
