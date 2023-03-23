@@ -4,8 +4,8 @@ Simple discord bot created to display minecraft server status
 
 ## Screenshots
 
-![App Screenshot](https://storage.oreq.xyz/Discord_on1E2kEGPD.png)
-![App Screenshot](https://storage.oreq.xyz/Discord_vVEKBunQiT.png)
+![App Screenshot](https://i.imgur.com/F22lLnO.png)
+![App Screenshot](https://i.imgur.com/S6fYVbd.png)
 
 ## License
 
